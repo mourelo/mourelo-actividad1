@@ -1,8 +1,8 @@
 ---
 title: Inversión en dividendos
-date: "2020-25-11T16:46:37.121Z"
+date: "2020-11-25T16:46:37.121Z"
 ---
-# Inversión en dividendos
+# Hacer crecer tu dinero con los dividendos
 
 En este post vamos a hablar sobre **inversion en dividendos**
 
