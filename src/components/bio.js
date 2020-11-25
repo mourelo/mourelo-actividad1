@@ -56,7 +56,7 @@ const Bio = () => {
           Escrito por <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://www.linkedin.com/in/carlosmourelo/`}>
-            Obtén más información acerca de CArlos Mourelo
+            Obtén más información acerca de Carlos Mourelo
           </a>
         </p>
       )}
