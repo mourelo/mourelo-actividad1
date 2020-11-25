@@ -6,6 +6,8 @@ date: "2020-25-11T16:46:37.121Z"
 
 En este post vamos a hablar sobre **inversion en dividendos**
 
+![Inversión en dividendos](./rentabilizar-ahorros.jpg)
+
 Dentro de nuestra estrategia de inversión, una manera de añadir cierta rentabilidad a nuestra cartera de acciones, es la inversión en dividendios. La inversión en dividendos es, básicamente, mantener acciones en nuestra cartera a lo largo del tiempo de aquellas empresas que decidan repartir el mayor porcentaje posible de dividendos entre sus accionistas.
 
 Un dividendo no es más que parte de las ganancias anuales de una empresa, la cual decide que sea reapartida entre las personas que tienen en su posesión cierto número de acciones.
