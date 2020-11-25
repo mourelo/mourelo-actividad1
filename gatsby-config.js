@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog de finanzas de Carlos Mourelo`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Carlos Mourelo`,
+      summary: `que vive en Madrid y se dedica al mundo de la tecnología.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog de finanzas dedicado a hacer crecer tu dinero.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `https://www.linkedin.com/in/carlosmourelo/`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Blog de finanzas de Carlos Mourelo`,
+        short_name: `Mourelo`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
