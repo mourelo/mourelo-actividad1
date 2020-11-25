@@ -10,6 +10,8 @@ description: "Rentabilizar tus ahorros"
 
 En este post quiero hablar de cómo **rentabilizar tus ahorros**
 
+![Rentabilizar ahorros](./el-ahorro-fiscal.jpg)
+
 El primer paso que se debe dar para rentabilizar tus ahorros es marcarte una meta y un propósito. Todos sabemos el enorme esfuerzo que cuesta ahorrar ese dinero que tanto esfuerzo cuesta ganar. Entonces, lo primero que debemos tener claro es cuál es nuestra capacidad de ahorro, y cuales serán nuestras necesidades a corto plazo.
 
 Una vez que tenemos claras cuales va a ser nuestra capacidad de ahorro y nuestras necesidades en el corto-medio plazo, podremos elaborar una estrategia de ahorro y de rentaibilización de esos ahorros. Para ello, dedicaremos el 10% de nuestros ahorros a invertirlos en bolsa.
